@@ -1,0 +1,34 @@
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+// Stylesheet
+// Author: Samuel SS - samuel@samuelss.com.br
+// Release Date: 
+// XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100%;
+	height: 100%;
+}
+header {
+	width: 100%;
+	height: 100px;
+	background-color: #eee;
+}
+section {
+	width: 100%;
+	height: 300px;
+	background-color: #aaa;
+}
+article {
+	width: 100%;
+	background-color: #eee;
+}
+footer {
+	width: 100%;
+	height: 200px;
+	background-color: #eee;
+}
